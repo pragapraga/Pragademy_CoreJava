@@ -1,3 +1,3 @@
 # Pragademy_CoreJava
 
-:smiley:
+:smiley: Hello vodqa Folks :smiley:
